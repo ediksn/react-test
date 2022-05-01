@@ -1,3 +1,7 @@
+# Repository for the React test
+
+### The application is not deployed at any server, is just the code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
